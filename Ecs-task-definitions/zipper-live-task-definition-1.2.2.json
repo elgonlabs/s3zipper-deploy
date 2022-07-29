@@ -85,7 +85,7 @@
       "memoryReservation": null,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "709825985650.dkr.ecr.us-east-1.amazonaws.com/s3zipper/zipper:1.2.2",
+      "image": "709825985650.dkr.ecr.us-east-1.amazonaws.com/s3zipper/zipperimages:1.2.2",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
